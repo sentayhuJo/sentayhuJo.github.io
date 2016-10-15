@@ -7,10 +7,20 @@
 	width: 80px;
 	height: 40px;
 }
+.imageResizeProfile{
+	width: 100px;
+	height: 100px;
+}
+
 .rezizeImageBorder{
 	width: 30px;
 	border-width: 10px;
     border-radius: 50px;
+}
+.resizeProfile{
+	width: 150px;
+	border-width: 10px;
+    border-radius: 70px;
 }
 .resizeImagePost{
 	width: 30px;
@@ -19,6 +29,10 @@
 .div_Possition{
 	width: 500px; 
 	margin: 0 auto; 
+}
+.div_PossitionProfile{
+	width: 700px; 
+	margin: 0 auto;
 }
 .postImageSize{
 	width: 500px;
@@ -44,12 +58,18 @@
 	font-weight: normal; 
 	border-style: none;
 }
+.resizedTextboxSearch {
+	width: 420px; 
+	font-size: 13px; 
+	font-weight: normal; 
+	border-style: normal;
+}
 .resizeImage1{
-	width: 20px;
-	height: 20px;
+	width: 30px;
+	height: 30px;
 }
 .resizeImage2{
-	width: 60px;
-	height: 30px;
+	width: 90px;
+	height: 60px;
 }
 
