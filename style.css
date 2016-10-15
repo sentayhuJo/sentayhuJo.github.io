@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-
 .resizeImage1{
 	width: 40px;
 	height: 40px;
 	float: right;
-
 }
 .resizeImage2{
 	width: 80px;
@@ -47,7 +44,6 @@
 	font-weight: normal; 
 	border-style: none;
 }
-=======
 .resizeImage1{
 	width: 20px;
 	height: 20px;
@@ -56,4 +52,4 @@
 	width: 60px;
 	height: 30px;
 }
->>>>>>> bf14bb386236d5a33b0ae4aac8ea455f72408ad3
+
