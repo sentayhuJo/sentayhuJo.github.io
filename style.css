@@ -1,12 +1,48 @@
-<<<<<<< HEAD
+
 .resizeImage1{
-=======
-.resizeImage{
->>>>>>> 347e04da0928d4a327e2d6331037c63206b22cde
-	width: 20px;
-	height: 20px;
+	width: 40px;
+	height: 40px;
+	float: right;
+
 }
 .resizeImage2{
-	width: 60px;
-	height: 30px;
+	width: 80px;
+	height: 40px;
+}
+.rezizeImageBorder{
+	width: 30px;
+	border-width: 10px;
+    border-radius: 50px;
+}
+.resizeImagePost{
+	width: 30px;
+	border-radius: 50px;
+}
+.div_Possition{
+	width: 500px; 
+	margin: 0 auto; 
+}
+.postImageSize{
+	width: 500px;
+	height: 600px;
+	padding: 20px;
+}
+.p1{
+	font-weight: normal;
+	font-size: 13px;
+
+}
+.linkColor{
+	color: black;
+}
+
+.spanFont{
+	font-weight: bold;
+	font-size: 13
+}
+.resizedTextbox {
+	width: 370px; 
+	font-size: 13px; 
+	font-weight: normal; 
+	border-style: none;
 }
