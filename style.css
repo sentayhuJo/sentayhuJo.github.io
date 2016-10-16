@@ -42,7 +42,6 @@
 .p1{
 	font-weight: normal;
 	font-size: 13px;
-
 }
 .linkColor{
 	color: black;
@@ -67,9 +66,40 @@
 .resizeImage1{
 	width: 30px;
 	height: 30px;
+
 }
 .resizeImage2{
 	width: 90px;
 	height: 60px;
 }
-
+.linkFormat{
+	color: black; 
+	font-weight:normal;
+	font-size: 12px;
+}
+.postContainer{
+	padding-top: 20px;
+}
+.textLeft{
+	float:left;
+}
+.textRight{
+	float: right;
+}
+.spanBold{
+	font-weight: bold;
+}
+.resizeApp{
+	width: 80px;
+	height: 40px;
+}
+.resizeGoogle{
+	width: 100px;
+	height: 50px;
+}
+.paragraphPadding{
+	padding-top: 10px;
+}
+.imageLeft{
+	float: left;
+}
