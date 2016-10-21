@@ -4,14 +4,13 @@
 	 
 */
 body{
-	margin:50px 200px 100px 200px;
+	margin:20px 200px 100px 200px;
 
 }
 /* Plote of land the house established*/
 .Plot-land{
 	width: 600px;
 	height: 600px;
-	margin: 20px;
 	border: 1px solid;
 	position: absolute;
 
