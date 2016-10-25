@@ -78,7 +78,11 @@
 	font-size: 12px;
 }
 .postContainer{
-	padding-top: 20px;
+	
+	position: fixed;
+	width: 500px;
+	margin: 60%;
+
 }
 .textLeft{
 	float:left;
